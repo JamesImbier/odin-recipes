@@ -19,6 +19,6 @@
     text-align: center;
 }
 
-ul li{
+.recipe_link li{
     display: inline;
 }
