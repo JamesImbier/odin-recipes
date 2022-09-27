@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chef{
+    text-align: center;
+    height: 200;
+    width: auto;
+}
+
+.Header_One{
+    color: black;
+    font-size: 64px;
+    text-align: center;
+}
