@@ -26,6 +26,7 @@
 .recipe_link li{
     display: inline;
     padding-right: 50px;
+    padding-left: 50px;
     font-size: 20px;
     color: black;
 }
