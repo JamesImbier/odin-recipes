@@ -7,8 +7,8 @@
 }
 
 .chef img{
-    height: 50;
-    width: auto;
+    height: auto;
+    max-width: 25%;
 }
 
 .Header_One{
