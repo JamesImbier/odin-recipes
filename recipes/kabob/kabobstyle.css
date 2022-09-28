@@ -8,6 +8,10 @@
     max-width: 70%;
 }
 
+.kabobimage{
+    text-align: center;
+}
+
 .header.main{
     font-weight: bolder;
     font-size: 48px;
