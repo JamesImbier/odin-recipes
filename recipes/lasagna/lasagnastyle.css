@@ -60,3 +60,7 @@
 .button:hover{
     background-color: white;
 }
+
+.spacer{
+    padding: 40px;
+}
