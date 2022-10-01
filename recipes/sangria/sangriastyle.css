@@ -43,3 +43,8 @@
 .section{
     padding-bottom: 20px;
 }
+
+.buttoncontainer{
+    text-align: center;
+    padding-top: 40px;
+}
