@@ -3,4 +3,11 @@
     background-color: bisque;
 }
 
+.lasagnaimg img{
+    max-width: 60%;
+    height: auto;
+}
 
+.lasagnaimg{
+    text-align: center;
+}
