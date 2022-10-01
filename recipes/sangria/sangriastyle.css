@@ -3,3 +3,12 @@
     background-color: bisque;
     font-size: 16px;
 }
+
+.sangriaimg img{
+    max-width: 60%;
+    height: auto;
+}
+
+.sangriaimg{
+    text-align: center;
+}
