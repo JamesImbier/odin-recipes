@@ -17,3 +17,10 @@
     font-size: 48px;
     text-align: left;
 }
+
+.header.sub{
+    font-weight: 300;
+    font-size: 32px;
+    text-decoration: underline;
+    padding-bottom: 0px;
+}
